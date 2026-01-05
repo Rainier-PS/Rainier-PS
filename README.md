@@ -90,9 +90,9 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rainier-PS&theme=dark&hide_border=true&border_radius=20)](https://github.com/Rainier-PS)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rainier-PS&theme=dark&hide_border=true&border_radius=20)](https://github.com/Rainier-PS)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rainier-PS&show_icons=true&theme=dark&hide_border=true)](https://github.com/Rainier-PS)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rainier-PS&theme=github-dark)
 
 </div>
 
