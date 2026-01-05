@@ -84,7 +84,7 @@
 ---
 
 <details open>
-<summary>More?</summary>
+<summary>More Details</summary>
 
 ## 👨‍💻 Social & Stats
 
