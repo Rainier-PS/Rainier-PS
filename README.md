@@ -90,8 +90,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rainier-PS&theme=dark&hide_border=true&border_radius=20)](https://github.com/Rainier-PS)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rainier-PS&theme=github-dark)
 
 </div>
