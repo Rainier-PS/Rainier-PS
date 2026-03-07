@@ -107,7 +107,7 @@
 
 ### 🔗 Contact & Links
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge)](https://rainier-ps.github.io/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge)](https://rainier-ps.github.io)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rainier-PS)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rainier_ps)
 [![Instructables](https://img.shields.io/badge/Instructables-FABF15?style=for-the-badge&logo=instructables&logoColor=black)](https://www.instructables.com/member/Rainier-PS/)
