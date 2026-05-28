@@ -32,7 +32,7 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
-[![SQL](https://img.shields.io/badge/sql-basic-lightgrey?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
+[![SQL](https://img.shields.io/badge/sql-lightgrey?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
 
 ---
 
