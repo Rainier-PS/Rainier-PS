@@ -4,7 +4,7 @@
 
 [![Profile Viewer](https://komarev.com/ghpvc/?username=Rainier-PS&style=for-the-badge)]()
 
-<img src="https://raw.githubusercontent.com/Rainier-PS/Personal-Website/main/images/site/Rainier%20Pearson%20Saputra-Avatar.jpg" width="170" />
+<img src="https://raw.githubusercontent.com/Rainier-PS/rainier-ps.github.io/main/images/site/Rainier%20Pearson%20Saputra-Avatar.jpg" width="170" />
 
 ## Rainier Pearson Saputra
 **Student · Aspiring Engineer · Tech Enthusiast**
@@ -31,6 +31,7 @@
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc)
 [![SQL](https://img.shields.io/badge/sql-lightgrey?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
 
@@ -60,6 +61,7 @@
 [![Science](https://img.shields.io/badge/Science-green?style=for-the-badge)]()
 [![Robotics](https://img.shields.io/badge/Robotics-red?style=for-the-badge)]()
 [![Electronics](https://img.shields.io/badge/Electronics-orange?style=for-the-badge)]()
+[![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-222222?style=for-the-badge)]()
 
 ---
 
